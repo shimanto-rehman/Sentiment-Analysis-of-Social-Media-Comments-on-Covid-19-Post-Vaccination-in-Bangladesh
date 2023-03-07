@@ -99,3 +99,6 @@ Note: Install a <code><img height="20" src="https://github.com/get-icon/geticon/
  <img src="screenshots/Input.png"/>
  <img src="screenshots/Output.png"/>
  <img src="screenshots/Algorithm.png"/>
+
+
+### Thanks for reading, have a good day! 🙂
