@@ -51,7 +51,7 @@ $ pip install -r requirements.txt
 ```
 python app.py
 ````
-- Which will return a localhost address with a specific port number like:  http://127.0.0.1:5000 <Your Port>
+- Which will return a localhost address with a specific port number like:  http://127.0.0.1:5000 ``Your Port```
 
 - You can also find it on browser by: localhost:5000
 
