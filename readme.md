@@ -94,3 +94,4 @@ Note: Install a <code><img height="20" src="https://github.com/get-icon/geticon/
  ```
  
  ## Here are some images for better view of the website
+ <img height="490" width="810" src="../screenshots/Intro.png"/>
