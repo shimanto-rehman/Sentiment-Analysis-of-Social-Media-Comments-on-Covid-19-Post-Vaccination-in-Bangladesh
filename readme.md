@@ -95,3 +95,7 @@ Note: Install a <code><img height="20" src="https://github.com/get-icon/geticon/
  
  ## Here are some images for better view of the website
  <img src="screenshots/Intro.png"/>
+ <img src="screenshots/Predict.png"/>
+ <img src="screenshots/Input.png"/>
+ <img src="screenshots/Output.png"/>
+ <img src="screenshots/Algorithm.png"/>
