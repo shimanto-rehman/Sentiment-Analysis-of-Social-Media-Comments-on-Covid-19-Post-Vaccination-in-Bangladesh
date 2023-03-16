@@ -1,4 +1,4 @@
-# Sentiment Analysis of Cocial Media Comments on Covid-19 Post-Vaccination in Bangladesh
+# Sentiment Analysis of Social Media Comments on Covid-19 Post-Vaccination in Bangladesh
 
 ![Version release](https://img.shields.io/badge/Version-v1.00-green)
 <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/shimanto-rehman/Sentiment-Analysis-of-Social-Media-Comments-on-Covid-19-Post-Vaccination-in-Bangladesh?style=social">
